@@ -1,16 +1,19 @@
-# github-profile-summary-cards-example
+# Hi there! 👋
+Professionally, I've been the former Head of Design at HOK, launched India's First Fashion show in the metaverse in 2022 with a very famous luxury brand PapaDontPreach with WICCI. Contributed in many DAOs like TheProductHouse as a core contributor and community manager.
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+- Currently in my 2nd yr of engineering, (Been into Web3 space for last 3yrs)
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+- Started contributing to open-source from Jun this Year. 
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+Let's connect and explore synergies.
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+# My numbers?
+
+
+[![](https://raw.githubusercontent.com/sandipkumardey/sandipkumardey/master/profile-summary-card-output/omni/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sandipkumardey/sandipkumardey/master/profile-summary-card-output/omni/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandipkumardey/sandipkumardey/master/profile-summary-card-output/omni/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sandipkumardey/sandipkumardey/master/profile-summary-card-output/omni/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sandipkumardey/sandipkumardey/master/profile-summary-card-output/omni/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
