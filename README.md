@@ -1,7 +1,7 @@
 # Hi there! 👋
 Professionally, I've been the former Head of Design at HOK, launched India's First Fashion show in the metaverse in 2022 with a very famous luxury brand PapaDontPreach with WICCI. Contributed in many DAOs like TheProductHouse as a core contributor and community manager.
 
-- Currently in my 2nd yr of engineering, (Been into Web3 space for last 3yrs)
+- Currently in my 3nd yr of engineering, (Been into Web3 space for more than last 3yrs)
 
 - Started contributing to open-source from Jun this Year. 
 
@@ -9,7 +9,18 @@ Professionally, I've been the former Head of Design at HOK, launched India's Fir
 Let's connect and explore synergies.
 
 
+# Well, the 45DaysChallenge is finally here!!
 
+![#45DayChallengeBySandip](https://github.com/user-attachments/assets/925e23f1-39a3-40b9-a8eb-9b1e3e1cc157)
+
+I have been asked ki "Market mein to aise bohot sare platforms or institutes hai jo similar programs karati hai.... so you're building a new platform??"
+
+Yeah, I agree there are many, and already students are doing their prep from there. 
+I'm NOT here to compete with anyone. 
+This is just a small effort I've put together with the help of my batchmates and fellow developers in the industry. 
+
+Why I'm doing this?
+The reason is, we are building this community from scratch and I'm leading it. This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more.
 
 # My numbers?
 
