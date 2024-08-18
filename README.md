@@ -11,7 +11,7 @@ Let's connect and explore synergies.
 
 # Well, the 45DaysChallenge is finally here!!
 
-![#45DayChallengeBySandip](https://github.com/user-attachments/assets/925e23f1-39a3-40b9-a8eb-9b1e3e1cc157)
+[![#45DayChallengeBySandip](https://github.com/user-attachments/assets/925e23f1-39a3-40b9-a8eb-9b1e3e1cc157)](https://github.com/sandipkumardey/45DayChallengeBySandip)
 
 I have been asked ki "_Market mein to aise bohot sare platforms or institutes hai jo similar programs karati hai.... so you're building a new platform??_"
 
