@@ -13,14 +13,14 @@ Let's connect and explore synergies.
 
 ![#45DayChallengeBySandip](https://github.com/user-attachments/assets/925e23f1-39a3-40b9-a8eb-9b1e3e1cc157)
 
-I have been asked ki "Market mein to aise bohot sare platforms or institutes hai jo similar programs karati hai.... so you're building a new platform??"
+I have been asked ki "_Market mein to aise bohot sare platforms or institutes hai jo similar programs karati hai.... so you're building a new platform??_"
 
 Yeah, I agree there are many, and already students are doing their prep from there. 
 I'm NOT here to compete with anyone. 
 This is just a small effort I've put together with the help of my batchmates and fellow developers in the industry. 
 
 Why I'm doing this?
-The reason is, we are building this community from scratch and I'm leading it. This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more.
+The reason is, we are building this community from scratch and I'm leading it. This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more. [Register here](https://forms.gle/qeirtt8eccnsSHDf9) to get started!
 
 # My numbers?
 
