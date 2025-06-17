@@ -3,7 +3,7 @@ Professionally, I've been the former Head of Design at HOK, launched India's Fir
 
 - Currently in my 3nd yr of engineering, (Been into Web3 space for more than last 3yrs)
 
-- Started contributing to open-source from Jun this Year. 
+- Started contributing to open-source from Jun last Year. 
 
 
 Let's connect and explore synergies.
