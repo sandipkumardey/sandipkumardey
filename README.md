@@ -22,10 +22,16 @@ This is just a small effort I've put together with the help of my batchmates and
 Why I'm doing this?
 The reason is, we are building this community from scratch and I'm leading it. This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more. [Register here](https://forms.gle/qeirtt8eccnsSHDf9) to get started!
 
+
 # Recent Blog Posts
 - [GitHub CI/CD pipeline breach](https://devkibani.hashnode.dev/github-ci-cd-pipeline-breach)
 - [OpenClaw- a security nightmare?](https://devkibani.hashnode.dev/openclaw-a-security-nightmare)
 - [My Semester of Setbacks and Small Victories](https://sandipkumardey.substack.com/p/my-semester-of-setbacks-and-small)
+
+
+# Quote I Live by
+> "Competition is for losers. The real competition lies within you. It's something that pushes you to be a better person- day by day. Whatever you are doing now is gonna define and make the person wanna be proud of. Trust the process, enjoy the ride. Remember, someone is watching you from above, not to pull you down but to accept you in a true form."
+
 
 # My numbers?
 
