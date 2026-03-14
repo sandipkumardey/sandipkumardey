@@ -30,7 +30,7 @@ The reason is, we are building this community from scratch and I'm leading it. T
 
 
 # Quote I Live by
-> "Competition is for losers. The real competition lies within you. It's something that pushes you to be a better person- day by day. Whatever you are doing now is gonna define and make the person wanna be proud of. Trust the process, enjoy the ride. Remember, someone is watching you from above, not to pull you down but to accept you in a true form."
+> "Competition is for losers. The real competition lies within you. It's something that pushes you to be a better person- day by day. Whatever you are doing now is gonna define and make the person you wanna be proud of. Trust the process, enjoy the ride. Remember, someone is watching you from above, not to pull you down but to accept you in a true form."
 
 
 # My numbers?
