@@ -22,6 +22,9 @@ This is just a small effort I've put together with the help of my batchmates and
 Why I'm doing this?
 The reason is, we are building this community from scratch and I'm leading it. This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more. [Register here](https://forms.gle/qeirtt8eccnsSHDf9) to get started!
 
+# Recent Blog Posts
+- [My Semester of Setbacks and Small Victories](https://sandipkumardey.substack.com/p/my-semester-of-setbacks-and-small)
+
 # My numbers?
 
 
