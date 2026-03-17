@@ -24,6 +24,7 @@ The reason is, we are building this community from scratch and I'm leading it. T
 
 
 # Recent Blog Posts
+- [IAM- more than just identity](https://devkibani.hashnode.dev/iam-more-than-just-identity)
 - [GitHub CI/CD pipeline breach](https://devkibani.hashnode.dev/github-ci-cd-pipeline-breach)
 - [OpenClaw- a security nightmare?](https://devkibani.hashnode.dev/openclaw-a-security-nightmare)
 - [My Semester of Setbacks and Small Victories](https://sandipkumardey.substack.com/p/my-semester-of-setbacks-and-small)
