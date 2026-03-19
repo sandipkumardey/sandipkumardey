@@ -1,4 +1,4 @@
-# Hi there! 👋
+<img width="602" height="555" alt="image" src="https://github.com/user-attachments/assets/47c0208b-1c4f-4a8f-893d-73991d52899d" /># Hi there! 👋
 Professionally, I've been the former Head of Design at HOK, launched India's First Fashion show in the metaverse in 2022 with a very famous luxury brand PapaDontPreach with WICCI. Contributed in many DAOs like TheProductHouse as a core contributor and community manager.
 
 - Currently in my Final yr of engineering, (Been into Web3 space for more than last 3yrs)
@@ -24,6 +24,7 @@ The reason is, we are building this community from scratch and I'm leading it. T
 
 
 # Recent Blog Posts
+- [IAM architecture- deep dive](https://devkibani.hashnode.dev/iam-architecture-deep-dive)
 - [IAM- more than just identity](https://devkibani.hashnode.dev/iam-more-than-just-identity)
 - [GitHub CI/CD pipeline breach](https://devkibani.hashnode.dev/github-ci-cd-pipeline-breach)
 - [OpenClaw- a security nightmare?](https://devkibani.hashnode.dev/openclaw-a-security-nightmare)
