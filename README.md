@@ -1,4 +1,4 @@
-<img width="602" height="555" alt="image" src="https://github.com/user-attachments/assets/47c0208b-1c4f-4a8f-893d-73991d52899d" /># Hi there! 👋
+# Hi there! 👋
 Professionally, I've been the former Head of Design at HOK, launched India's First Fashion show in the metaverse in 2022 with a very famous luxury brand PapaDontPreach with WICCI. Contributed in many DAOs like TheProductHouse as a core contributor and community manager.
 
 - Currently in my Final yr of engineering, (Been into Web3 space for more than last 3yrs)
