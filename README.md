@@ -24,6 +24,7 @@ The reason is, we are building this community from scratch and I'm leading it. T
 
 
 # Recent Blog Posts
+- [Zero to eBPF: Deep Dive](https://devkibani.hashnode.dev/zero-to-ebpf-deep-dive)
 - [Rsync — the tool I wish someone had told me about earlier](https://devkibani.hashnode.dev/rsync-the-tool-i-wish-someone-had-told-me-about-earlier)
 - [IAM architecture- deep dive](https://devkibani.hashnode.dev/iam-architecture-deep-dive)
 - [IAM- more than just identity](https://devkibani.hashnode.dev/iam-more-than-just-identity)
