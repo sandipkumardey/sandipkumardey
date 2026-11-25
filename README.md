@@ -24,6 +24,7 @@ The reason is, we are building this community from scratch and I'm leading it. T
 
 
 # Recent Blog Posts
+- [Model is the brain, the harness is everything else](https://devkibani.hashnode.dev/model-is-the-brain-the-harness-is-everything-else)
 - [The Last Networking Guide You'll Ever Need](https://devkibani.hashnode.dev/the-last-networking-guide-you-ll-ever-need)
 - [Zero to eBPF: Deep Dive](https://devkibani.hashnode.dev/zero-to-ebpf-deep-dive)
 - [Rsync — the tool I wish someone had told me about earlier](https://devkibani.hashnode.dev/rsync-the-tool-i-wish-someone-had-told-me-about-earlier)
